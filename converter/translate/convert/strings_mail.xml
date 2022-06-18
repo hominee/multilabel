@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">新郵件</string>
+    <string name="theme">主題</string>
+    <!-- DataUtils begin-->
+    <string name="date_yesterday">yesterday</string>
+    <string name="date_to_today">HH:mm</string>
+    <string name="date_to_yesterday">HH:mm</string>
+    <string name="date_to_year">MMM-dd</string>
+    <string name="date_to_day">MMM-dd yyyy</string>
+    <string name="MM_dd_HH_mm">MM/dd HH:mm</string>
+    <string name="yyyyMMddHHmm">yyyy/MM/dd HH:mm</string>
+    <string name="yyyy_MM_dd_HH_mm">yyyy年MM月dd日 HH:mm</string>
+    <string name="date_year">year</string>
+    <string name="date_month">month</string>
+    <string name="date_day">day</string>
+    <string name="date_hour">hour</string>
+    <string name="date_min">minute</string>
+    <string name="date_sec">second</string>
+    <string name="date_today">today</string>
+    <string name="date_before_yesterday">before yesterday</string>
+    <!-- DataUtils end-->
+
+    <string name="mail">郵件</string>
+    <string name="info_detail">資料詳情</string>
+    <string name="nick_name">昵稱:</string>
+    <string name="position">職位:</string>
+    <string name="phone">電話:</string>
+    <string name="email">郵箱:</string>
+    <string name="come_and_go_mail">往來郵件</string>
+    <string name="move_private">移入私海</string>
+    <string name="new_customer">新建客戶</string>
+    <string name="edit_customer">編輯客戶</string>
+    <string name="add_as_customer">添加為客戶</string>
+    <string name="add_as_already_customer">添加到已有客戶</string>
+    <string name="add_address_list">添加到通訊錄</string>
+    <string name="create_trail">創建跟進</string>
+    <string name="mail_type_all">全部</string>
+    <string name="mail_type_receive">我接收的</string>
+    <string name="mail_type_send">我發送的</string>
+
+    <string name="search">搜索</string>
+    <string name="select_all">全選</string>
+    <string name="select_x_mail">已選擇%d封郵件</string>
+    <string name="cancel_select_all">取消全選</string>
+    <string name="inbox">收件箱</string>
+    <string name="outbox">發件箱</string>
+    <string name="has_send_mail">已發郵件</string>
+    <string name="unread_mail">未讀郵件</string>
+
+    <string name="you_not_bind_any_email">您還沒綁定任何郵箱</string>
+    <string name="suggest_to_pc_bind_email">建議先前往網頁端完成郵箱綁定</string>
+
+    <string name="mark">標記</string>
+    <string name="move">移動</string>
+    <string name="distribute">分發</string>
+    <string name="delete">刪除</string>
+    <string name="complete_delete">徹底刪除</string>
+
+    <string name="pin">打釘</string>
+    <string name="no_pin">取消打釘</string>
+    <string name="mark_read">標為已讀</string>
+    <string name="mark_unread">標為未讀</string>
+    <string name="mark_trash">標記為垃圾郵件</string>
+    <string name="cancel_mark_trash">取消標記為垃圾郵件</string>
+    <string name="add_tag">添加標簽</string>
+    <string name="mail_del_cannot_recover">郵件徹底刪除後不可恢復</string>
+    <string name="track_record">追蹤\\n記錄</string>
+    <string name="in">於</string>
+    <string name="sum">共</string>
+    <string name="be_open">被打開</string>
+    <string name="location">地點: </string>
+    <string name="times">次</string>
+    <string name="all_track_record_">全部追蹤記錄 (</string>
+    <string name="right_brackets">)</string>
+    <string name="get_data_fail">獲取數據失敗</string>
+
+    <string name="reply">回覆</string>
+    <string name="reply_all">回覆全部</string>
+    <string name="forward">轉發</string>
+    <string name="re_edit">編輯</string>
+    <string name="open">展開</string>
+    <string name="close">收起</string>
+    <string name="timing_mail_send_time">定時郵件發送時間:</string>
+    <string name="cc">抄送:</string>
+    <string name="bcc">密送:</string>
+    <string name="ccbcc">抄送/密送人, </string>
+    <string name="mail_sender">發件人:</string>
+    <string name="addressee">收件人:</string>
+    <string name="detail">詳情</string>
+    <string name="time">時間:</string>
+    <string name="attach_">附件(</string>
+    <string name="piece_">個)</string>
+    <string name="receive">回覆</string>
+    <string name="move_to">移動到...</string>
+    <string name="finish">完成</string>
+
+    <string name="customer_contact">客戶聯繫人</string>
+    <string name="contacts_contact">通訊錄聯繫人</string>
+    <string name="company_coworker">企業同事</string>
+
+    <string name="select_sender">選擇發件人</string>
+
+    <string name="add_mailbox">添加郵箱</string>
+    <string name="folder">文件夾</string>
+    <string name="tag">標簽</string>
+    <string name="draftbox">草稿箱</string>
+    <string name="junkbox">垃圾箱</string>
+    <string name="has_been_deleted">已刪除</string>
+
+    <string name="insert_to_content">插入到正文</string>
+    <string name="preview">預覽</string>
+    <string name="please_open_storage_permission">請在應用管理中打開存儲權限</string>
+    <string name="no_permission">無權限</string>
+    <string name="send">發送</string>
+    <string name="write_mail">寫郵件</string>
+
+</resources>
